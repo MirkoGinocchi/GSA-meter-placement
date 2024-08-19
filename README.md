@@ -23,7 +23,7 @@ R. D. Zimmerman, C. E. Murillo-Sanchez. MATPOWER User-s Manual, Version 7.1. 202
 UQLAB: 
 UQLab: A Framework for Uncertainty Quantification in MATLAB, Stefano Marelli and Bruno Sudret, In The 2nd International Conference on Vulnerability and Risk Analysis and Management (ICVRAM 2014), University of Liverpool, United Kingdom, July 13-16, 2014, pp. 2554–2563. DOI: https://doi.org/10.1061/9780784413609.257. Instruction for UQLab installations: https://www.uqlab.com/  
 
-<img src="docs/workflow.pdf">
+<img src="docs/workflow.png">
 
 ## Copyright
 2022-2023, David Pacheco (RWTH-ACS) <br/>
