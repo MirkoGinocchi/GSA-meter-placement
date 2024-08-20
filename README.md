@@ -15,7 +15,7 @@ LIST OF MAIN SUBROUTINES contained in "Main_GSA.m":
 Be always sure to be in the correct path. MATPOWER, UQLab and Parallel Computing Toolbox™ required.
 
 CREDITS:
-David Pacheco (davidpacheco35@hotmail.com), Mirko Ginocchi (mirko.ginocchi@eonerc.rwth-aachen.de), Marco Pau (marco.pau@iee.fraunhofer.de)
+Mirko Ginocchi (mirko.ginocchi@eonerc.rwth-aachen.de), David Pacheco (davidpacheco35@hotmail.com), Marco Pau (marco.pau@iee.fraunhofer.de)
 
 MATPOWER: 
 R. D. Zimmerman, C. E. Murillo-Sanchez. MATPOWER User-s Manual, Version 7.1. 2020. [Online]. Available: https://matpower.org/docs/MATPOWER-manual-7.1.pdf // Link to the repository: https://github.com/MATPOWER/matpower
@@ -26,8 +26,8 @@ UQLab: A Framework for Uncertainty Quantification in MATLAB, Stefano Marelli and
 <img src="docs/workflow.png">
 
 ## Copyright
-2022-2023, David Pacheco (RWTH-ACS) <br/>
 2018-2024, Mirko Ginocchi (RWTH-ACS) <br/>
+2022-2023, David Pacheco (RWTH-ACS) <br/>
 2023, Institute for Automation of Complex Power Systems, RWTH Aachen University, Aachen, Germany
 
 ## License
